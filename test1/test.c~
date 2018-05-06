@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int is_n_integer(int n,char* str);
+
+int main(){
+
+
+}
+
+
+int is_n_integer(int n,char* str){
+
+
+}
